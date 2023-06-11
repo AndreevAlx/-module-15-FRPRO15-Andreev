@@ -1,0 +1,16 @@
+.button {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  background-color: aqua;
+}
+
+.button__text {
+  padding-left: 10px;
+  padding-top: 2px;
+}
+
+.button__svg {
+  padding-left: 10px;
+  padding-top: 2px;
+}
